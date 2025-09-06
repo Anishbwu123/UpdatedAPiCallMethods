@@ -61,7 +61,7 @@ export const images = {
   // New icons for AddPostScreen
   Check: require('../Assets/Images/check.png') as ImageRequireSource,
   Upload: require('../Assets/Images/upload.png') as ImageRequireSource,
-  DownArrow: require('../Assets/Images/downArrow.png') as ImageRequireSource,
+  // DownArrow: require('../Assets/Images/downArrow.png') as ImageRequireSource,
   Calendar: require('../Assets/Images/calendar.png') as ImageRequireSource,
 
   // New Image/icons for SearchScreen
